@@ -29,7 +29,7 @@ Download and install SC3-plugins (https://supercollider.github.io/SC3-plugins)
 
 ## TO START APP
 
-Open the file TXImageSynthApp/blob/main.scd from inside SuperCollider with SC3-plugins installed.
+Open the file TXImageSynthApp.scd from inside SuperCollider with SC3-plugins installed.
 
 Select the whole document - press Cmd+A (MacOS) / Ctrl+A (Win).
 
