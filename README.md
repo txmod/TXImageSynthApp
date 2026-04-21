@@ -1,6 +1,6 @@
 # TX Image Synth App
 
-![screenshot_ImageEdit](https:/github.com/txmod/TXImageSynthApp/Screenshots/screenshot_ImageEdit.png)
+![screenshot_ImageEdit](https:/github.com/txmod/TXImageSynthApp/blob/main/Screenshots/screenshot_ImageEdit.png)
 
 ##INTRO
 This is a SuperCollider app for generating sounds based on images used as sonograms.
@@ -19,7 +19,7 @@ Download and install SuperCollider (https://supercollider.github.io)
 Download and install SC3-plugins (https://supercollider.github.io/SC3-plugins)
 
 ## TO START APP
-Open the file TXImageSynthApp.scd from inside SuperCollider with SC3-plugins installed.
+Open the file TXImageSynthApp/blob/main.scd from inside SuperCollider with SC3-plugins installed.
 Select the whole document - press Cmd+A (MacOS) / Ctrl+A (Win).
 Evaluate the code - press Shift+Return.
 Once the app starts, click on the Help button to open the Help Window.
@@ -34,7 +34,7 @@ Big thanks to all who share their code.
 ## LICENSE
 GNU GPL 3 license as per SuperCollider
 
-![screenshot_Record](https:/github.com/txmod/TXImageSynthApp/Screenshots/screenshot_Record.png)
-![screenshot_Settings](https:/github.com/txmod/TXImageSynthApp/Screenshots/screenshot_Settings.png)
-![screenshot_Sound](https:/github.com/txmod/TXImageSynthApp/Screenshots/screenshot_Sound.png)
-![screenshot_Warp](https:/github.com/txmod/TXImageSynthApp/Screenshots/screenshot_Warp.png)
+![screenshot_Record](https:/github.com/txmod/TXImageSynthApp/blob/main/Screenshots/screenshot_Record.png)
+![screenshot_Settings](https:/github.com/txmod/TXImageSynthApp/blob/main/Screenshots/screenshot_Settings.png)
+![screenshot_Sound](https:/github.com/txmod/TXImageSynthApp/blob/main/Screenshots/screenshot_Sound.png)
+![screenshot_Warp](https:/github.com/txmod/TXImageSynthApp/blob/main/Screenshots/screenshot_Warp.png)
