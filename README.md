@@ -24,6 +24,7 @@ Created by Paul Miller (palemoonrising.co.uk)
 ## BEFORE STARTING
 
 Download and install SuperCollider (https://supercollider.github.io)
+
 Download and install SC3-plugins (https://supercollider.github.io/SC3-plugins)
 
 ## TO START APP
