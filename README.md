@@ -1,6 +1,6 @@
 # TX Image Synth App
 
-![screenshot_ImageEdit](https://github.com/txmod/TXImageSynthApp/Screenshots/screenshot_ImageEdit.png)
+![screenshot_ImageEdit](https://github.com/txmod/TXImageSynthApp/blob/main/Screenshots/screenshot_ImageEdit.png)
 
 ## INTRO
 
@@ -39,7 +39,7 @@ Big thanks to all who share their code.
 
 GNU GPL 3 license as per SuperCollider
 
-![screenshot_Record](https://github.com/txmod/TXImageSynthApp/Screenshots/screenshot_Record.png)
-![screenshot_Settings](https://github.com/txmod/TXImageSynthApp/Screenshots/screenshot_Settings.png)
-![screenshot_Sound](https://github.com/txmod/TXImageSynthApp/Screenshots/screenshot_Sound.png)
-![screenshot_Warp](https://github.com/txmod/TXImageSynthApp/Screenshots/screenshot_Warp.png)
+![screenshot_Record](https://github.com/txmod/TXImageSynthApp/blob/main/Screenshots/screenshot_Record.png)
+![screenshot_Settings](https://github.com/txmod/TXImageSynthApp/blob/main/Screenshots/screenshot_Settings.png)
+![screenshot_Sound](https://github.com/txmod/TXImageSynthApp/blob/main/Screenshots/screenshot_Sound.png)
+![screenshot_Warp](https://github.com/txmod/TXImageSynthApp/blob/main/Screenshots/screenshot_Warp.png)
